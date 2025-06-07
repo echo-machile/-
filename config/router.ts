@@ -20,6 +20,11 @@ export default [
         component: 'Table',
     },
     {
+        name: '待办事项',
+        path: '/todo',
+        component: 'Todo',
+    },
+    {
         name: '登陆',
         path: '/login',
         component: 'Login',
